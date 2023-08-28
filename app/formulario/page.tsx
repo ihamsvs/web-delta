@@ -1,4 +1,4 @@
-import React from 'react'
+
 import MainForm from '../components/Form/MainForm'
 
 const Page = () => {
